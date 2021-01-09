@@ -1,8 +1,0 @@
-main: net.cfxt.main.Main
-name: GameFeatures
-version: 1.0
-author: TheBadOne
-commands:
-   iiw:
-      description: is it working
-      usage: /isitworking
